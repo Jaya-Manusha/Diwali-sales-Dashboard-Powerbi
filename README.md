@@ -98,7 +98,7 @@ _Update the file and folder names to match your actual repository._
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](<https://github.com/>)
+- GitHub: [https://github.com/Jaya-Manusha]
 
 ## ⭐ Acknowledgment
 
